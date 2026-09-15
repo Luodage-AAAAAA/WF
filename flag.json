@@ -1,1 +1,3 @@
-{"min_version": "0.1.0"}
+{ "disabled": false, "message": "这一版先别用了" }
+{ "min_version": "0.1.0", "message": "这版有问题，去群里下新的" }
+{ "expires_at": "2026-10-15" }
